@@ -1,4 +1,4 @@
-const getName = ()=>{
+export const getName = ()=>{
 
     return "Md. Mehedi Hasan";
 }
@@ -10,9 +10,9 @@ const getAge = ()=>{
 
 const cgpa = 3.75;
 
-exports.getName = getName;
-exports.getAge = getAge;
-exports.cgpa = cgpa;
+//exports.getName = getName;
+//exports.getAge = getAge;
+//exports.cgpa = cgpa;
 
 
 
