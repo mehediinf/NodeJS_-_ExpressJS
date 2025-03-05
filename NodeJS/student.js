@@ -3,7 +3,7 @@ export const getName = ()=>{
     return "Md. Mehedi Hasan";
 }
 
-const getAge = ()=>{
+export const getAge = ()=>{
 
     return "25";
 }
